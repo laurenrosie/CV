@@ -63,7 +63,6 @@ with mathematics from a young age. Having moved towards Statistical & Data Analy
 during my degree I realised the incredible potential when these skills are
 combined with coding!
 
-
 #### Communication of Technical Ideas
 - Gained a lot of experience in the communication of technical ideas to non-technical decision makers
 through my work with Trinity Student Managed Fund.
@@ -72,6 +71,14 @@ through my work with Trinity Student Managed Fund.
 #### Enjoy a fast-paced environment
 - I love a challenge, and find I learn best and produce my best work when under
 pressure and am in a fast-paced environment.
+
+#### Resilience
+- Despite being seriously ill, having major surgery and an aggressive schedule
+of physiotherapy and medication during a period of over two years during my
+degree, I still graduated with a grade and University experience I am proud of.
+- Having now recovered, I find that while it was far from ideal, I actually
+learned a huge amount about time management, working 'smart', prioritization and
+resilience during this period.
 
 #### Other Skills
 - Fluent French speaker (DELF B2 Adulte 78%)
