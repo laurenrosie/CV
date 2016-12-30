@@ -1,13 +1,16 @@
 ## Lauren Watson
 
 Having always gravitated towards problem solving and abstraction, I recently
-graduated from Trinity College Dublin with a First Class Honors in Mathematics and subsequently
-decided to search for problem solving and abstraction in a new setting.
+graduated from Trinity College Dublin with a First Class Honors in Mathematics.
+I subsequently decided to try coding in a new setting, somewhat removed from
+Mathematics/Statistics (for the moment).
 
-I have enrolled as a student at Makers Academy (a 16 week Software and Web Development bootcamp)
-in order to pursue my interest in coding and improve the quality of my programming practices.
+I have enrolled as a student at Makers Academy (a 16 week Software and Web
+Development bootcamp) in order to pursue my interest in coding and improve the
+quality of my programming practices.
 
-I hope to find a position combining coding with statistics, data analytics or mathematics.
+I hope to find a position combining coding with statistics, data analytics or
+mathematics.
 
 ## Education
 
