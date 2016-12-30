@@ -78,7 +78,5 @@ pressure and am in a fast-paced environment.
 - Experience with C, C++, Java and R.
 
 ## Interests
-- Piano: I have played piano since the age of 6, attaining my final grade aged 16 and have since
-continued to play classical pieces. I find it a brilliant way to relax!
-- Reading: Always fearful of losing my command of English due to too much maths, I love
-to read about varied topics from science fiction to classical literature to economics.
+- Piano: I have played piano since the age of 6 and particularly love classical pieces.
+- Reading: Varied topics from science fiction to classical literature to economics.
