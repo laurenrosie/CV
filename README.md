@@ -21,11 +21,9 @@ mathematics.
 
 #### Trinity College, Dublin (2011 to 2016)
 
-Degree
 - BA Mathematics
 - First Class Honors
-- In my final year I focused on modules in mathematical statistics, statistical inference etc..
-- I completed a final year research project titled "Bayesian Inference for Stochastic Volatility Models".
+- Completed a final year research project titled "Bayesian Inference for Stochastic Volatility Models".
 - This project involved both theory and derivation as well as extensive simulation using R. (Awarded a First in this project)
 
 Trinity Student Managed Fund, 2012-2015
@@ -45,7 +43,7 @@ Trinity French Society, 2011-2013
 
 #### Ecole des Roches, Normandy, France (2008-2009)
 - Awarded Most Improved French Language Student of the Year
-- DELF B2 Adulte (78%) - an exam attesting to fluency in the French Language
+- DELF B2 Adulte - an exam attesting to fluency in the French Language
 - Elected Class Representative
 
 ## Experience
