@@ -84,7 +84,7 @@ learned a huge amount about time management, working 'smart', prioritization and
 resilience during this period.
 
 #### Other Skills
-- Fluent French speaker (DELF B2 Adulte 78%)
+- French speaker (DELF B2 Adulte)
 - Experience with C, C++, Java and R.
 
 ## Interests
