@@ -10,7 +10,7 @@ Development bootcamp) in order to pursue my interest in coding and improve the
 quality of my programming practices. I felt a bootcamp would be
 the ideal environment in which to jump-start some skills I did not automatically develop in
 statistics/mathematics type programming. For example effective pairing
-as well as principles such as TDD, SOLID, OOP and easily read, understood and reusable code.
+as well as principles such as TDD, SOLID, OOP and easily readable, understandable and reusable code.
 
 I always knew 600 lines of code to run a simulation (even a complex one) was very far
 from ideal, I just didn't yet know where or how to begin fixing it.
