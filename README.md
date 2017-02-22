@@ -22,17 +22,17 @@ mathematics.
 #### Trinity College, Dublin (2011 to 2016)
 
 - BA Mathematics
-- First Class Honors
+- *First Class Honors*
 - Completed a final year research project titled "Bayesian Inference for Stochastic Volatility Models".
 - This project involved both theory and derivation as well as extensive simulation using R. (Awarded a First in this project)
 
-Trinity Student Managed Fund, 2012-2015
+*Trinity Student Managed Fund, 2012-2015*
 - An entirely student managed investment fund with a portfolio of ~ €40,000
 - 2012-2013 Consumer Staples Analyst, successfully pitched 2 of our best performing stocks that year
 - 2013-2015 Chief Risk Officer, built a risk department from scratch including models (eg. VAR models), training and recruiting Risk Analysts etc...
 - I was also responsible for Female and STEM recruitment, increasing both substantially
 
-Trinity French Society, 2011-2013
+*Trinity French Society, 2011-2013*
 - 2011-2012 Member of the French Debating team, traveled to France to compete and won 5/5 debates in the 2011-2012 season
 - 2012-2013 Treasurer for the Society. Kept accounts, ran events etc...
 
