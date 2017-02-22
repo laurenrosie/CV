@@ -7,9 +7,17 @@ Statistics (for the moment).
 
 I have enrolled as a student at Makers Academy (a 16 week Software and Web
 Development bootcamp) in order to pursue my interest in coding and improve the
-quality of my programming practices.
+quality of my programming practices. I felt a bootcamp would be
+the ideal environment in which to jump-start some skills I did not automatically develop in
+statistics/mathematics type programming. For example effective pairing
+as well as principles such as TDD, SOLID, OOP and easily read, understood and reusable code.
 
-I hope to find a position combining coding with statistics, data analytics or
+I always knew 600 lines of code to run a simulation (even a complex one) was very far
+from ideal, I just didn't yet know where or how to begin fixing it.
+
+_*Logic is rarely everything.*_
+
+I hope to find a position combining coding with statistics, data analytics and/or
 mathematics.
 
 ## Education
