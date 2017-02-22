@@ -1,6 +1,6 @@
 ## Lauren Watson
 
-Having always gravitated towards problem solving and abstraction, I recently
+Having always gravitated towards abstraction and problem solving, I recently
 graduated from Trinity College Dublin with a BA in Mathematics. I subsequently
 decided to try coding in a new setting, somewhat removed from Mathematics and
 Statistics (for the moment).
@@ -15,9 +15,9 @@ mathematics.
 ## Education
 
 #### Makers Academy (Nov 2016 to March 2017)
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Principles: OOP, TDD, SOLID, MVC, DDD
+- Coding: Ruby, Rails, Javascript, Node.js, Angular.js
+- Testing: Rspec, Jasmine, Mocha
 
 #### Trinity College, Dublin (2011 to 2016)
 
@@ -70,11 +70,10 @@ through my work with Trinity Student Managed Fund.
 - My teaching experience taught me a vast amount about the communication of abstract ideas
 
 #### Enjoy a fast-paced environment
-- I love a challenge, and find I learn best and produce my best work when under
-pressure and am in a fast-paced environment.
+- I love a challenge, and find I learn best and produce my best work when in a fast-paced environment.
 
 #### Resilience
-- Despite being seriously ill, having major surgery and an aggressive schedule
+- Despite having major surgery and an aggressive schedule
 of physiotherapy and medication during a period of over two years during my
 degree, I still graduated with a grade and University experience I am proud of.
 - Having now recovered, I find that while it was far from ideal, I actually
