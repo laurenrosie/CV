@@ -1,4 +1,5 @@
 ## Lauren Watson
+-------
 
 Having always gravitated towards abstraction and problem solving, I recently
 graduated from Trinity College Dublin with a BA in Mathematics. I subsequently
@@ -13,6 +14,7 @@ I hope to find a position combining coding with statistics, data analytics or
 mathematics.
 
 ## Education
+-------
 
 #### Makers Academy (Nov 2016 to March 2017)
 - Principles: OOP, TDD, SOLID, MVC, DDD
@@ -47,6 +49,7 @@ mathematics.
 - Elected Class Representative
 
 ## Experience
+-------
 
 #### Mathematics Tutor, Just Maths Tutorial School, Templeogue (2012-2013)
 - Taught all skill-levels and ages from 11-18
@@ -56,6 +59,7 @@ mathematics.
 - Taught Junior Certificate (GSCE level) Mathematics to underprivileged children
 
 ## Skills
+-------
 
 #### Analytical Thinker
 
@@ -81,9 +85,10 @@ learned a huge amount about time management, working 'smart', prioritization and
 resilience during this period.
 
 #### Other Skills
-- French speaker (DELF B2 Adulte)
+- French speaker (DELF B2 Adulte level)
 - Experience with C, C++, Java and R.
 
 ## Interests
+-------
 - Piano: I have played piano since the age of 6 and particularly love classical pieces.
 - Reading: Varied topics from science fiction to classical literature to economics.
