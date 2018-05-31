@@ -15,8 +15,6 @@ as well as principles such as TDD, SOLID, OOP and easily readable, understandabl
 I always knew 600 lines of code to run a simulation (even a complex one) was very far
 from ideal, I just didn't yet know where or how to begin fixing it.
 
-_*Logic is rarely everything.*_
-
 I hope to find a position combining coding with statistics, data analytics and/or
 mathematics.
 
@@ -44,16 +42,6 @@ mathematics.
 - 2011-2012 Member of the French Debating team, traveled to France to compete and won 5/5 debates in the 2011-2012 season
 - 2012-2013 Treasurer for the Society. Kept accounts, ran events etc...
 
-#### St. Andrews College, Dublin (2009 to 2011)
-- International Baccalaureate 39/45 points
-- Awarded academic prizes in Mathematics, Physics, French, Business and English
-- Senior Prefect
-
-#### Ecole des Roches, Normandy, France (2008-2009)
-- Awarded Most Improved French Language Student of the Year
-- DELF B2 Adulte - an exam attesting to fluency in the French Language
-- Elected Class Representative
-
 ## Experience
 
 #### Mathematics Tutor, Just Maths Tutorial School, Templeogue (2012-2013)
@@ -68,9 +56,7 @@ mathematics.
 #### Analytical Thinker
 
 I have always enjoyed the analytical nature of problem solving and was fascinated
-with mathematics from a young age. Having moved towards Statistical & Data Analytics
-during my degree I realised the incredible potential when these skills are
-combined with coding!
+with mathematics from a young age.
 
 #### Communication of Technical Ideas
 - Gained a lot of experience in the communication of technical ideas to non-technical decision makers
